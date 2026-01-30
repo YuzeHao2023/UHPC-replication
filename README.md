@@ -14,6 +14,7 @@ Six ML algorithms were used to predict the mechanical properties of fiber-type U
 - [运行方式](#运行方式)
 - [功能说明](#功能说明)
 - [模拟结果](#模拟结果)
+- [Citation](#Citation)
 
 ##  🔧 环境准备
 
@@ -79,6 +80,22 @@ python main2.py
 |模型         |R-Square           |RMSE   |
 |-------------|-------------------|-------|
 |XGBoost      |0.912              |0.102  |
+
+# Citation
+
+If this code is helpful for you, Please cite this publications:
+
+```bibtex
+@article{bolbolvand2025prediction,
+  title={Prediction of compressive and flexural strengths of ultra-high-performance concrete (UHPC) using machine learning for various fiber types},
+  author={Bolbolvand, Milad and Tavakkoli, Seyed Mehdi and Alaee, Farshid Jandaghi},
+  journal={Construction and Building Materials},
+  volume={493},
+  pages={143135},
+  year={2025},
+  publisher={Elsevier}
+}
+```
 
 <div align="right">
     <b><a href="#目录">↥ back to top</a></b>
